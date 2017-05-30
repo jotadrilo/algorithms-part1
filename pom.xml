@@ -7,8 +7,7 @@
     <version>0.1</version>
     <packaging>jar</packaging>
 
-    <name>Algorithms Assignments</name>
-    <url>http://carlosrdrz.es</url>
+    <name>Algorithms, Part 1</name>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
